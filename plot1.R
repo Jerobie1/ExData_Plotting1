@@ -1,6 +1,9 @@
 #
 # This first line sets my working directory and the location of the household_power_consumption.txt file.
 #
+# LoadPwData.R can be used to download, unzip and place the the file household_power_consumption.txt
+#          into this working directory.
+#
 setwd("~/Coursera/DataScience/ExDataAnalysis")
 #
 # The next four lines load the required dataset
